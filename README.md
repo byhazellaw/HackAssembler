@@ -1,3 +1,5 @@
-# Nand2Tetris
+Hack Assembler
 
-Hack Computer Assembler written in Java
+Assemble Hack machine language.
+
+Part of the Nand2Tetris course: https://www.nand2tetris.org
